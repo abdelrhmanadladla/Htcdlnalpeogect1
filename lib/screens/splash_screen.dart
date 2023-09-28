@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:yehyefirebasee/Helpers/navigator_helper.dart';
-import 'package:yehyefirebasee/screens/main_screen.dart';
+import 'package:Abadelrhmanaldaadla/Helpers/navigator_helper.dart';
+import 'package:Abadelrhmanaldaadla/screens/main_screen.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});

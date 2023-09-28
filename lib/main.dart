@@ -1,8 +1,8 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
-import 'package:yehyefirebasee/Providers/theme_provider.dart';
-import 'package:yehyefirebasee/screens/splash_screen.dart';
+import 'package:Abadelrhmanaldaadla/Providers/theme_provider.dart';
+import 'package:Abadelrhmanaldaadla/screens/splash_screen.dart';
 import 'Cache/cache_controller.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';

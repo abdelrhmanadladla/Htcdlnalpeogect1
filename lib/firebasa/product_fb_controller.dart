@@ -1,6 +1,6 @@
 
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:yehyefirebasee/models/fb/product_model.dart';
+import 'package:Abadelrhmanaldaadla/models/fb/product_model.dart';
 
 class ProductFbController{
 
